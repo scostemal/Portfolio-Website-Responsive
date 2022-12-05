@@ -404,6 +404,11 @@ nav .fa-solid {
         left: 25px;
         cursor: pointer;
     }
+
+    nav .fa-solid {
+        display: block;
+    }
+
     .subtitle {
         font-size: 40px;
     }
