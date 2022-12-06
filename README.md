@@ -1,6 +1,6 @@
-#Professional Portfolio & Resume Website
+# Professional Portfolio & Resume Website
 
-##Objectives
+## Objectives
 
 - Provide Resume
 - Provide Work Catalogue
@@ -9,15 +9,15 @@
 - Provide About Me
 - Provide Services
 
-##Usage
+## Usage
 
 - Will serve as a personal portfolio to showcase deployed projects & resume.
 
-##Mock-Up
+## Mock-Up
 
 The following animation shows the web application's potential appearance and functionality:
 
-##Deployment
+## Deployment
 
 The following is a screenshot of the deployed project.
 
