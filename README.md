@@ -17,6 +17,8 @@
 
 The following animation shows the web application's potential appearance and functionality:
 
+![portfolio demo](./Assets/02-advanced-css-homework-demo.gif)
+
 ## Deployment
 
 The following is a screenshot of the deployed project.
